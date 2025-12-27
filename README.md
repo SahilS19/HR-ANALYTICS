@@ -1,6 +1,6 @@
 # HR Analytics Dashboard 📊
 
-This repository contains an **HR Analytics Dashboard** project created using **Power BI**, designed to analyze employee data and uncover meaningful insights related to **attrition, demographics, salary trends, and job roles**.
+**HR Analytics Dashboard** project created using **Power BI**, designed to analyze employee data and uncover meaningful insights related to **attrition, demographics, salary trends, and job roles**.
 
 ---
 
