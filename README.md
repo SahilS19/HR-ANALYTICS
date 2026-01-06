@@ -1,7 +1,7 @@
 # HR Analytics Dashboard 📊
 
 # Dashboards Preview 📊
-![Dashboards Banner](assets/hr-dashboards)
+![Dashboards Banner](assets/hr-dashboards.png)
 
 ---
 
