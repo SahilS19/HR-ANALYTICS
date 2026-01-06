@@ -1,5 +1,10 @@
 # HR Analytics Dashboard 📊
 
+# Dashboards Preview 📊
+![Dashboards Banner](assets/hr-dashboards)
+
+---
+
 **HR Analytics Dashboard** project created using **Power BI**, designed to analyze employee data and uncover meaningful insights related to **attrition, demographics, salary trends, and job roles**.
 
 ---
